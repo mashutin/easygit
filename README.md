@@ -26,7 +26,7 @@ Instead, the user deals with "tasks", which are actually branches.
 
 ## How to use
 
-1. Copy ``work.sh`` to your repository.
+1. Copy ``easygit.sh`` to your repository.
 1. Launch the script.
 You can keep the script running while working with the repository. 
 1. Follow the instructions.
